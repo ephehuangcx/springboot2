@@ -1,0 +1,14 @@
+com\example\demos\controller\utils\ProjectExceptionAdvice.class
+com\example\demos\domain\Book.class
+com\example\demos\dao\BookDao.class
+com\example\demos\controller\BookController.class
+com\example\demos\controller\utils\R.class
+com\example\demos\service\IBookService.class
+com\example\demos\web\BasicController.class
+com\example\demos\web\PathVariableController.class
+com\example\demos\web\User.class
+com\example\demos\config\MPConfig.class
+com\example\demos\service\impl\BookServiceImpl2.class
+com\example\SSMPApplication.class
+com\example\demos\service\BookService.class
+com\example\demos\controller\BookController2.class
